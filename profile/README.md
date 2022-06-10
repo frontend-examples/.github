@@ -1,6 +1,6 @@
 # Frontend Examples
 
-Test settings: MOTO G4 | Chrome v102 | 4G | Virginia, USA
+Test settings: MOTO G4 | Chrome v102 | 4G | Virginia, USA | Median of 3 runs
 
 |  | Version | JS (bytes) | FCP | SI | Webpagetest URL | Preview URL | 
 | - | - | - | - | - | - | - |
