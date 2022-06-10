@@ -2,7 +2,7 @@
 
 Test settings: MOTO G4 | Chrome v102 | 4G | Virginia, USA | Median of 3 runs
 
-|  | Version | JS (kB) | FCP | SI | Webpagetest URL | Preview URL | 
+|  | Version | JS transfer size (kB) | FCP | SI | Webpagetest URL | Preview URL | 
 | - | - | - | - | - | - | - |
 | angular | 14.0.0 | 44.95 | 1.425s | 1.5s | [click here](https://www.webpagetest.org/result/220609_BiDc09_C37/) | [click here](https://angular-orcin-chi.vercel.app/) |
 | flutter | 3.0.2 | 421.15 | 6.378s | 6.4s | [click here](https://www.webpagetest.org/result/220610_AiDcZ2_BSJ/) | [click here](https://frontend-examples.github.io/flutter-web/#/) |
