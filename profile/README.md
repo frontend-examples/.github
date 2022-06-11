@@ -2,10 +2,10 @@
 
 Test settings: MOTO G4 | Chrome v102 | 4G | Virginia, USA | Median of 3 runs
 
-|  | Version | JS transfer size (kB) | FCP | SI | Webpagetest URL | Preview URL | 
+|  | Version | JS transfer size (kB) | FCP | SI | Webpagetest URL | Deployment URL | 
 | - | - | - | - | - | - | - |
 | angular | 14.0.0 | 44.95 | 1.425s | 1.5s | [click here](https://www.webpagetest.org/result/220609_BiDc09_C37/) | [click here](https://angular-orcin-chi.vercel.app/) |
-| flutter | 3.0.2 | 421.15 | 6.378s | 6.4s | [click here](https://www.webpagetest.org/result/220610_AiDcZ2_BSJ/) | [click here](https://frontend-examples.github.io/flutter-web/#/) |
+| flutter | 3.0.2 | 421.15 | 6.378s | 6.4s | [click here](https://www.webpagetest.org/result/220610_AiDcZ2_BSJ/) | [click here](https://flutter-web.frameworklist.com/#/) |
 | gatsby | 4.16.0 | 67.49 | 0.837s | 0.9s | [click here](https://www.webpagetest.org/result/220610_AiDc4N_BAJ/) | [click here](https://frontend-examples.github.io/gatsby/) |
 | next.js | 12.1.6 | 84.84 | 1.096s | 1.2s | [click here](https://www.webpagetest.org/result/220609_BiDc3G_BXV/) | [click here](https://next-js-tan-phi.vercel.app/) |
 | remix | 1.5.1 | 62.57 | 0.987s | 1.0s | [click here](https://www.webpagetest.org/result/220609_BiDc20_BXW/) | [click here](https://remix-five-pink.vercel.app/) |
